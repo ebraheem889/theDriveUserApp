@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192.756" height="198.001" viewBox="0 0 192.756 198.001">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#45a080"/>
+      <stop offset="1" stop-color="#4e9fcf"/>
+    </linearGradient>
+    <filter id="Intersection_2" x="0" y="0" width="192.756" height="198.001" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Intersection_2)">
+    <path id="Intersection_2-2" data-name="Intersection 2" d="M-2259.319-8288.108s20.957-21.433,0-38.7-58.971-20.615-83.825-30.369c-76.468-30.021,103.474-95.718-29.611-110.672l8.992-.259H-2214a16.046,16.046,0,0,1,16,16.092v147.82a16.044,16.044,0,0,1-16,16.089Z" transform="translate(2381.76 8474.11)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

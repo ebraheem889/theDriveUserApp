@@ -1,0 +1,5 @@
+arb-dir: lib/controller/services/lang
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
+output-dir: lib/controller/services/lang/generated
+synthetic-package: false

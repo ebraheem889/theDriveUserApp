@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "188446669753",
+    "project_id": "thedrive-8cd03",
+    "storage_bucket": "thedrive-8cd03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188446669753:android:8bd66b4852bc56b7589468",
+        "android_client_info": {
+          "package_name": "com.digitalmagna.thedrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188446669753-6vntqbgp1bo8dj9j12q824bp8uldvslk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalmagna.thedrive",
+            "certificate_hash": "7e03a0b59594ae12b45253393ede75d8a07b2499"
+          }
+        },
+        {
+          "client_id": "188446669753-v5qp3q9d26qm3fakqnrrmr7kmp2n20qb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalmagna.thedrive",
+            "certificate_hash": "a515f4fee9ef014564bdc760cb5b530879b922bf"
+          }
+        },
+        {
+          "client_id": "188446669753-1rgdroi7b30413uc8vscop32ur1gfk65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh7brB0uZS9qWvYlAq00EBu_TUkdZ0Aho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188446669753-1rgdroi7b30413uc8vscop32ur1gfk65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188446669753-73pl4fs9q7os17ilorkq9np883nkcqe5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digitalmagna.thedrive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

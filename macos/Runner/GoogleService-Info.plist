@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>188446669753-u8lnre6grn88njhbbn6ack0c5uetcc3r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.188446669753-u8lnre6grn88njhbbn6ack0c5uetcc3r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeGecQ_eKtD_97wK-DNRa2TMsuogItuuw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>188446669753</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.theDrive</string>
+	<key>PROJECT_ID</key>
+	<string>thedrive-8cd03</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thedrive-8cd03.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:188446669753:ios:8e32b9ee1627373a589468</string>
+</dict>
+</plist>

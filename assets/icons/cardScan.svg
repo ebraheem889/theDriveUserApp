@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.219" height="25.482" viewBox="0 0 34.219 25.482">
+  <g id="svgexport-10_12_" data-name="svgexport-10 (12)" transform="translate(0 0)" opacity="0.862">
+    <rect id="Rectangle_18848" data-name="Rectangle 18848" width="34.219" height="25.212" rx="7" transform="translate(0 0)" fill="#f9c84e"/>
+    <g id="Group_74512" data-name="Group 74512" transform="translate(0 0)">
+      <path id="Path_18950" data-name="Path 18950" d="M12.121,8V33.482H10.95V30.008h-9.9A3.138,3.138,0,0,1,1,29.428v-.579h9.95V24.216H1V23.058h9.95V18.425H1V17.266h9.95V12.633H1v-.579a3.138,3.138,0,0,1,.047-.579h9.9V8Z" transform="translate(-1 -8)" fill="#eaaa42"/>
+      <path id="Path_18951" data-name="Path 18951" d="M51.121,12.1v.585h-9.95A1.174,1.174,0,0,1,40,11.512V8h1.171v3.512h9.9A3.2,3.2,0,0,1,51.121,12.1Z" transform="translate(-17.173 -8)" fill="#eaaa42"/>
+      <path id="Path_18952" data-name="Path 18952" d="M41.171,25.171v4.682h9.95v1.171h-9.95v4.682h9.95v.585a3.2,3.2,0,0,1-.047.585h-9.9v3.512H40V25.171A1.174,1.174,0,0,1,41.171,24h9.95v1.171Z" transform="translate(-17.173 -14.906)" fill="#eaaa42"/>
+    </g>
+  </g>
+</svg>

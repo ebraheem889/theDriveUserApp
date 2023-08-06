@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="back_CTA" data-name="back CTA" transform="translate(-12 -13)">
+    <path id="Icon_ionic-md-arrow-round-back" data-name="Icon ionic-md-arrow-round-back" d="M23.892,14.4H11.729l4.717-4.784a2.081,2.081,0,0,0,0-2.723,1.616,1.616,0,0,0-2.455,0L6.137,14.968a1.894,1.894,0,0,0-.512,1.35v.024a1.894,1.894,0,0,0,.512,1.35l7.849,8.074a1.616,1.616,0,0,0,2.455,0,2.081,2.081,0,0,0,0-2.723l-4.717-4.784H23.886a1.84,1.84,0,0,0,1.739-1.928A1.82,1.82,0,0,0,23.892,14.4Z" transform="translate(6.375 6.67)" fill="#fff"/>
+  </g>
+</svg>

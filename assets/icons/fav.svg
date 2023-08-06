@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.037" height="17.166" viewBox="0 0 20.037 17.166">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#45a080"/>
+      <stop offset="1" stop-color="#4e9fcf"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_awesome-heart" data-name="Icon awesome-heart" d="M18.091,3.421a5.434,5.434,0,0,0-7.3.521l-.771.778-.771-.778a5.434,5.434,0,0,0-7.3-.521,5.423,5.423,0,0,0-.387,7.966L9.13,19.043a1.245,1.245,0,0,0,1.773,0l7.573-7.655a5.42,5.42,0,0,0-.384-7.966Z" transform="translate(0.001 -2.248)" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+</svg>

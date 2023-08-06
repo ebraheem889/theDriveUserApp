@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="21.993" viewBox="0 0 22 21.993">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#45a080"/>
+      <stop offset="1" stop-color="#4e9fcf"/>
+    </linearGradient>
+  </defs>
+  <g id="Discount" transform="translate(1.166 1.167)">
+    <g id="svgexport-6_58_" data-name="svgexport-6 (58)" transform="translate(-1.166 -1.246)">
+      <g id="Group_74602" data-name="Group 74602" transform="translate(0 0.079)">
+        <path id="Path_19041" data-name="Path 19041" d="M136.065,178.594l1.666-2.154h3.72v-6.818H130.68v6.818H134.4Zm1.719-6.222h1.289v1.289h-1.289Zm-2.363,0h1.289v1.289h-1.289Zm-1.037,1.289h-1.289v-1.289h1.289Z" transform="translate(-125.065 -162.337)" fill="url(#linear-gradient)"/>
+        <path id="Path_19042" data-name="Path 19042" d="M17.719,19.416H13.3V18.049H10.658A1.961,1.961,0,0,0,8.7,20.008v.105a1.961,1.961,0,0,0,1.959,1.959H13.3V20.705h5.706V15.8l.792,0a2.2,2.2,0,0,0,2.2-2.2V10.461a2.2,2.2,0,0,0-2.2-2.2h-.792V6.818A6.747,6.747,0,0,0,12.269.079H9.732A6.747,6.747,0,0,0,2.993,6.818V8.267H2.2a2.2,2.2,0,0,0-2.2,2.2V13.6a2.2,2.2,0,0,0,2.2,2.2H4.282V6.818a5.457,5.457,0,0,1,5.45-5.45h2.537a5.457,5.457,0,0,1,5.45,5.45v12.6Z" transform="translate(0 -0.079)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>
